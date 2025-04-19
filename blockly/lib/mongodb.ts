@@ -1,7 +1,7 @@
 import { MongoClient, Db } from 'mongodb';
 
-const MONGODB_URI = process.env.MONGODB_URI || 'mongodb+srv://your-username:your-password@cluster0.mongodb.net/visual-code-platform?retryWrites=true&w=majority';
-const MONGODB_DB_NAME = process.env.MONGODB_DB_NAME || 'visual-code-platform';
+const MONGODB_URI = process.env.MONGODB_URI || 'mongodb+srv://saurabh:EvKJuuNxtsxWGxd0@cluster0.e8d2pel.mongodb.net/Blockly?retryWrites=true&w=majority';
+const MONGODB_DB_NAME = process.env.MONGODB_DB_NAME || 'Blockly';
 
 /**
  * Global MongoDB client connection
