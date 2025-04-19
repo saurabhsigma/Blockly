@@ -1,0 +1,15 @@
+A visual programming interface where:
+
+Students/users drag and drop code blocks (like Scratch or PictoBlox)
+
+The blocks generate JavaScript or Python code
+
+Users can run the code (possibly with support for hardware like Arduino later)
+
+You're using:
+
+Google Blockly: The open-source block-based visual coding library
+
+HTML/CSS/JavaScript for the web app
+
+
